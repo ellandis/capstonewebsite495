@@ -16,9 +16,9 @@ const BlogPost = (props) => {
       Our team will be building a desktop app 
       the processes EEG/EMG <br/> data and provides 
       feedback to users based on the processed 
-      data.
+      data. 
       <hr/>
-      <h2>Approach</h2>
+      <h2>Approach </h2>
       <ul>
         <li>Tool/Frameworks/OS/Language -(possible choices) 
           <ul>
