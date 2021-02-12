@@ -10,9 +10,7 @@ const Header = (props) => {
   return(
     <header className="header">
         <nav className="headerMenu">
-            <a href="#">Home</a>
-            <a href="#">About Us</a>
-            <a href="#">Contact Us</a>
+            <a href="#">University of Alabama Capstone CS 495</a>
         </nav>
         <div className="headerMenuText">
             Capstone CS 495

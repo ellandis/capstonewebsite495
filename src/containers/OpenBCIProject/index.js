@@ -11,8 +11,9 @@ const OpenBCIProject = (props) => {
     
     <div className="des">
     <h1>OpenBCI Project</h1> <br/> 
-    We will be working with Joseph Artuso from OpenBCI we have a meeting with him Feb 11, 
-    5:30pm. The languages we may use are between Python, JavaScript, and Java. and
+    We will be working with Joseph Artuso from OpenBCI we have a meeting with him Feb 11,<br/>
+    5:30pm. 
+    <hr/>
     
 
     </div>

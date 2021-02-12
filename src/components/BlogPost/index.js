@@ -14,9 +14,9 @@ const BlogPost = (props) => {
       <img style={{width:'30%'}} src={pic} alt="pic" /> <br/>
       <h2>Goals</h2>
       Our team will be building a desktop app 
-      the processes EEG/EMG <br/> data and provides 
-      feedback to users based on the processed 
-      data. 
+      that processes EEG/EMG <br/>
+      data and provides 
+      feedback to users based on the processed data. 
       <hr/>
       <h2>Approach </h2>
       <ul>
